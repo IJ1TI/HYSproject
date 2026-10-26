@@ -1,6 +1,6 @@
 # HYSproject: Solving of hybrid equations 
 
-## See [graphical documentation](https://orgpad.info/o/D20qndO41PgoyZDi9ArijO)
+## See [graphical documentation](https://orgpad.info/s/gzLT4Bl0u3g)
 
 ## Structure
 
