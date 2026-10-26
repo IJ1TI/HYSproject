@@ -1,4 +1,5 @@
-# HYSproject: Solving of hybrid equations 
+# HYSproject: Solving hybrid systems in Julia
+Goal 
 
 ## See [graphical documentation](https://orgpad.info/s/gzLT4Bl0u3g)
 
